@@ -1,0 +1,94 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Montserrat:wght@300&display=swap');
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@700&display=swap%27');
+
+
+body {
+    background-color: #9fbbff;
+    
+}
+
+
+h1{color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5vw;
+    
+}
+
+.title{color: #404b66;
+font-family: Montserrat,-apple-system,blinkmacsystemfont,"segoe ui",roboto,"helvetica neue",arial,"noto sans",sans-serif,"apple color emoji","segoe ui emoji","segoe ui symbol","noto color emoji"; ;
+font-weight: 900;
+
+
+}
+
+
+
+
+
+
+
+
+    
+
+
+
+
+div{display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 100px;
+   
+    
+    }
+
+section{display: flex ;
+    flex-direction: column;
+
+    
+}
+
+p{ font-family: 'Kanit', sans-serif;
+    color: rgb(0, 0, 0);
+
+
+}
+
+
+
+
+a{
+    text-decoration: none;
+    font-family: 'Kanit', sans-serif;
+    color: black;
+    
+}
+
+a:hover{color: #4f5d7f;
+    transition: 0.3s;
+    border-bottom: solid black 1px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
